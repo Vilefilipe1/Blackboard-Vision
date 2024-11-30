@@ -1,6 +1,8 @@
 # Blackboard-Vision
 Blackboard-Vision is a Python project that filters images by identifying their content, specifically separating blackboard images from others. It utilizes machine learning and metadata to categorize images based on the class in which they were captured.
 
+![explorer_mlfqvj4B2h](https://github.com/user-attachments/assets/024d61d6-3172-4262-a3e2-b4ff52c0bfe2)
+
 For my personal use case, I use [Syncthing](https://syncthing.net/) to synchronize the pictures folder between devices (desktop and smartphone) and set Blackboard-Vision to run automatically when I'm not using my desktop. This has significantly improved my productivity in studying by eliminating the need to search for blackboard images among other pictures.
  
 
