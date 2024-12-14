@@ -116,7 +116,7 @@ def load_directory ():
         config.write(configfile)
 
 # Recreate the exact same model, including its weights and the optimizer
-model = tf.keras.models.load_model("./training/my_model_15-5_30-11.keras") 
+model = tf.keras.models.load_model("./training/my_model_15-19_30-11.keras") 
 
 load_directory()
 
